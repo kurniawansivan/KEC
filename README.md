@@ -1,0 +1,2 @@
+# KEC
+Kecerdasan Buatan
